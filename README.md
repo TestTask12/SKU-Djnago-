@@ -1,2 +1,0 @@
-# SKU-Djnago-
-Djanogo code
